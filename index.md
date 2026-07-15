@@ -40,4 +40,4 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 
 ## 6. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
-**gud.apps.support@gmail.com**
+**gud.support@gmail.com**
